@@ -1,0 +1,5 @@
+{
+  "name": "unooo",
+  "description": "A fully functional, real-time multiplayer UNO game with advanced UI, animations, circular table layout, and scoring system. Features a simulated backend for immediate playability.",
+  "requestFramePermissions": []
+}
